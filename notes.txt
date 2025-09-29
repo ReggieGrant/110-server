@@ -3,8 +3,8 @@ Win py/python -m venv venv
 Mac python3 -m venv venv 
 
  ----- Activate the venv -------
- Win venv\Scripts\Activate
- Mac source venv/bin/activated
+ Win venv\Scripts\activate
+ Mac source venv/bin/activate
 
  ------ Install Flask ----
  pip install Flask
